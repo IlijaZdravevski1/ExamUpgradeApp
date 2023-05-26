@@ -36,18 +36,18 @@ class _HomeScreenState extends State<HomeScreen>{
     Termin(
         id: "1",
         name: "MIS Mobile information systems",
-        date:  DateTime.parse("2022-12-29 15:00:00")),
+        date:  DateTime.parse("2022-06-29 15:00:00")),
     Termin(
         id: "2",
         name: "OOP Object oriented programming",
-        date: DateTime.parse("2022-12-13 15:00:00"),),
+        date: DateTime.parse("2022-06-13 15:00:00"),),
     Termin(
         id: "3",
-        name: "HCI Design of human-computer interaction",
-        date: DateTime.parse("2023-03-20 15:00:00"),),
+        name: "Algorithm and data structure",
+        date: DateTime.parse("2023-06-20 15:00:00"),),
     Termin(
         id: "4",
-        name: "DS Data Science",
+        name: "Data Base",
         date: DateTime.parse("2023-03-03 13:30:00"),)
   ];
 

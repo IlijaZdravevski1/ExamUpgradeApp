@@ -57,7 +57,7 @@ class _SignInScreenState extends State<SignInScreen>{
             child: Column(
             children: <Widget>[
               SizedBox(height: 40),
-              Text("Welcome", style: TextStyle(color: Colors.green, fontWeight: FontWeight.bold, fontSize: 30),),
+              Text("Welcome", style: TextStyle(color: Colors.blue, fontWeight: FontWeight.bold, fontSize: 30),),
               SizedBox(height: 40),
               TextField(
                 controller: emailController,
